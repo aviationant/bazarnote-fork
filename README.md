@@ -17,6 +17,15 @@ Bazarnote is a simple note taking app geared toward shopping lists. It only keep
 
 It is a simple offline application. Just open the app, input your shopping list, keep track of your products, and that's all.
 
+<a href="https://f-droid.org/packages/com.rootminusone8004.bazarnote/" target="_blank">
+  <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="60"/>
+</a>
+<a href="https://apt.izzysoft.de/fdroid/index/apk/com.rootminusone8004.bazarnote/" target="_blank">
+  <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="60"/>
+</a>
+
+Or download the latest APK from the [Releases](https://codeberg.org/rootminusone8004/Bazarnote/releases/latest).
+
 ## build the app
 
 See the [BUILD\_INFO.org](BUILD_INFO.org) file for details.
@@ -44,7 +53,3 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a [copy](LICENSE.txt) of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-<a href="https://apt.izzysoft.de/fdroid/index/apk/com.rootminusone8004.bazarnote/" target="_blank">
-  <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="60"/>
-</a>
