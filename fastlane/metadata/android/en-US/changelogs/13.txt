@@ -1,0 +1,2 @@
+Added
+  - CSV files can be imported into notes

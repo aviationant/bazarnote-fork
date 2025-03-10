@@ -113,3 +113,8 @@ All notable changes to this project are documented in this file.
 *** Added
    - added user guide
    - CSV files for specifically selected sessions
+
+** [0.9.0] - 11-03-2025
+
+*** Added
+   - CSV files can be imported into notes
