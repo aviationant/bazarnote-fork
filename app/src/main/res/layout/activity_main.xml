@@ -10,7 +10,9 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="618dp"
+        android:scrollbars="vertical"
+        tools:itemCount="15"
         tools:listitem="@layout/note_item" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -21,4 +23,5 @@
         android:src="@drawable/ic_add"
         android:layout_gravity="bottom|end"
         android:layout_margin="32dp" />
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

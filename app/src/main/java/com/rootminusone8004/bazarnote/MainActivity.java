@@ -8,6 +8,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.Toast;
+import androidx.fragment.app.DialogFragment;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -53,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         Intent sessionIntent = getIntent();
 
         TapMainActivity tapMainActivity = new TapMainActivity(this);
-        tapMainActivity.startGuide();
+        // tapMainActivity.startGuide();
 
         String title = sessionIntent.getStringExtra(EXTRA_SESSION_NAME);
         setTitle(title);
